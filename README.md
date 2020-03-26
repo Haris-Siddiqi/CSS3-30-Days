@@ -1,11 +1,11 @@
 # CSS3-30-Days
 
-Design:
-1 - Fancy Buttons
-2 - Sexy Typography
-9 - Modern Layouts
-22 - Flexbox Layouts
-
+Design:  
+1 - Fancy Buttons  
+2 - Sexy Typography  
+9 - Modern Layouts  
+22 - Flexbox Layouts  
+  
 Images:
 26 - 3D Layers
 29 - Blurry Effect
