@@ -2,7 +2,8 @@
 
 ![Image](_theme-styles/img/CSS30_Logo.png | width=48)
 
-![test](https://github.com/favicon.ico | width=48)
+
+<img src="https://github.com/favicon.ico" width="40%">
 
 Design:  
 1 - Fancy Buttons  
