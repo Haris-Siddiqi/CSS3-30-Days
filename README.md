@@ -1,6 +1,6 @@
 # CSS3-30-Days
 
-![Image](_theme-styles/img/CSS30_Logo.png)
+![Image](_theme-styles/img/CSS30_Logo.png | width=100)
 
 Design:  
 1 - Fancy Buttons  
