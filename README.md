@@ -1,6 +1,7 @@
 # CSS3-30-Days
 
-<img src="_theme-styles/img/CSS30_Logo.png" width=30%>  
+<img src="_theme-styles/img/CSS30_Logo.png" width=30%>
+  
 Shoutout to Thiago for doing this course with me https://github.com/psychoCS  
   
 Design:  
