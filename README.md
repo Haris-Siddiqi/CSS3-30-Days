@@ -1,9 +1,7 @@
 # CSS3-30-Days
 
 ![Image](_theme-styles/img/CSS30_Logo.png | width=48)
-
-
-<img src="https://github.com/favicon.ico" width="40%">
+<img src="_theme-styles/img/CSS30_Logo.png" width=50%>
 
 Design:  
 1 - Fancy Buttons  
