@@ -1,4 +1,4 @@
-# CSS3-Course
+# CSS3-In-30-Days
 
 <img src="_theme-styles/img/CSS30_Logo.png" width=30%>
   
