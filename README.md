@@ -1,8 +1,7 @@
 # CSS3-30-Days
 
-![Image](_theme-styles/img/CSS30_Logo.png | width=48)
-<img src="_theme-styles/img/CSS30_Logo.png" width=50%>
-
+<img src="_theme-styles/img/CSS30_Logo.png" width=30%>
+  
 Design:  
 1 - Fancy Buttons  
 2 - Sexy Typography  
