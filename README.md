@@ -2,7 +2,7 @@
 
 <img src="_theme-styles/img/CSS30_Logo.png" width=30%>
   
-Shoutout to Thiago for doing this course with me https://github.com/psychoCS  
+Shoutout to Thiago for doing this course with me - https://github.com/psychoCS  
 View projects live - https://codepen.io/harissiddiqi
   
 Design:  
